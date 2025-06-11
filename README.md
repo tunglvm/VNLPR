@@ -1,7 +1,7 @@
 ### license plate recognition
 
 ## Step by step
-|   | Contributors                           | GithubID       |
+|   | Step                                   |  Description   |
 |---|----------------------------------------|----------------|
 | 1 |Read image                              |Read image containing license plate number|
 | 2 |Determine the license plate area        |Cut out the area with license plate using object detection|
