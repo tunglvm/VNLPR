@@ -5,9 +5,9 @@
 |---|----------------------------------------|----------------|
 | 1 |Read image                              |Read image containing license plate number|
 | 2 |Determine the license plate area        |Cut out the area with license plate using object detection|
-||Trần Quốc Huy        | @Huybip        |
-|| Đặng Thị Thu Hoài    | @hoai2310      |
-|| Nguyễn Văn Dũng      | @dungpnk       |
+| 3 |       |       |
+| 4 |     |    |
+| 5 |      |       |
 
 ## Requirements
  - Python 3
